@@ -1,2 +1,2 @@
 # myFirrstRepo
-to learn how to use it
+to learn how to use it.
